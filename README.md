@@ -18,7 +18,7 @@
 
 ## Authors
 
-👤 **Abreham Awoke**
+👤 **Bruk Teshome**
 
 - GitHub: [@githubhandle](https://github.com/bruk19)
 - Twitter: [@twitterhandle](https://twitter.com/Bruktesh)
